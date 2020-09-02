@@ -1,1 +1,1 @@
-# react-typescript-sass-webpack-boilerplate
+## React Boilerplate App using Webpack + Typescript + SASS
